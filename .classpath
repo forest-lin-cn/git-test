@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="D:/Magic-Box/Third-party JAR/jexcel-1.7-windows-32_64-bit/lib/comfyj-2.10.jar"/>
 	<classpathentry kind="lib" path="D:/Magic-Box/Third-party JAR/jexcelapi_2_6_12/jxl.jar"/>
 	<classpathentry kind="lib" path="lib/jdistlib-0.4.1-bin.jar"/>
-	<classpathentry kind="output" path="bin"/>
+	<!--<classpathentry kind="output" path="bin"/>-->
+	<!--<classpathentry kind="output" path="bin"/>-->
 </classpath>
